@@ -1,0 +1,1 @@
+{"embedding": "NatashaGlove", "model": "Perceptron", "extra_features": ["exclamation", "question", "quotes", "dotes"], "seed": 8, "results": {"precision": 0.5404556858027317, "recall": 0.8570963238715682, "F1": 0.6629056783725178, "PR AUC": 0.5373055901893765, "ROC AUC": 0.5362947995494289}, "test samples": 248721}

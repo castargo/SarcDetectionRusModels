@@ -1,0 +1,1 @@
+{"embedding": "NatashaGlove", "model": "LogisticRegression", "extra_features": [], "seed": 8, "results": {"precision": 0.11371402692576886, "recall": 0.33281118207012894, "F1": 0.16951024917147414, "PR AUC": 0.1073176410725525, "ROC AUC": 0.6310367556176543}, "test samples": 119968}

@@ -1,0 +1,1 @@
+{"embedding": "NatashaGlove", "model": "LogisticRegression", "extra_features": ["exclamation", "question", "quotes", "dotes"], "seed": 8, "results": {"precision": 0.6431748792795731, "recall": 0.5505894214363269, "F1": 0.5932917988124636, "PR AUC": 0.6653442119347371, "ROC AUC": 0.6503599923681618}, "test samples": 248721}

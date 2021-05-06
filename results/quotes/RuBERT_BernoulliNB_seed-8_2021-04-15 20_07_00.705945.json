@@ -1,0 +1,1 @@
+{"embedding": "RuBERT", "model": "BernoulliNB", "extra_features": ["rating", "comments_count", "source", "submitted_by"], "seed": 8, "results": {"precision": 0.09883317356956335, "recall": 0.3602843716110375, "F1": 0.15511516912222456, "PR AUC": 0.0940300245999737, "ROC AUC": 0.6275016709603312}, "test samples": 119968}

@@ -1,0 +1,1 @@
+{"embedding": "TFIDF", "model": "LogisticRegression", "extra_features": ["author", "subreddit", "score"], "seed": 8, "results": {"precision": 0.5316866074874566, "recall": 0.6944625407166124, "F1": 0.6022700139563821, "PR AUC": 0.5379687839345566, "ROC AUC": 0.5266129336185895}, "test samples": 248721}

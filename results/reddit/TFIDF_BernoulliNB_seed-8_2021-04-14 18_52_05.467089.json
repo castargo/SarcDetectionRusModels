@@ -1,0 +1,1 @@
+{"embedding": "TFIDF", "model": "BernoulliNB", "extra_features": ["funny_mark"], "seed": 8, "results": {"precision": 0.7178922559501794, "recall": 0.6472778036295952, "F1": 0.6807587368524085, "PR AUC": 0.7720082605273267, "ROC AUC": 0.7495830948820931}, "test samples": 248721}

@@ -1,0 +1,35 @@
+bert-dp @ git+https://github.com/deepmipt/bert.git@741d9bed9d52c6a9409ca27d8bf284615645618b
+deep-translator==1.4.1
+deeppavlov==0.14.0
+gensim==3.8.3
+googletrans==3.0.0
+joblib @ git+https://github.com/joblib/joblib.git@5c7c4566bc2668a435799713fcbf467234f4e984
+json5==0.8.5
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+matplotlib==3.3.1
+navec==0.10.0
+nltk==3.4.5
+numpy==1.19.5
+pandas==0.25.3
+Pillow==7.2.0
+pymystem3==0.2.0
+scikit-image==0.17.2
+scikit-learn==0.24.1
+scikit-plot==0.3.7
+scipy==1.5.2
+seaborn==0.10.0
+sklearn==0.0
+tabulate==0.8.7
+tensorboard==1.15.0
+tensorboard-plugin-wit==1.8.0
+tensorboardX==2.1
+tensorflow==1.15.2
+tensorflow-estimator==1.15.1
+torch==1.5.1
+torchvision==0.6.1
+tqdm==4.46.1
+transformers==2.8.0
+wordcloud==1.8.0
+xgboost===1.4.0-SNAPSHOT
+yandex-translater==6.0

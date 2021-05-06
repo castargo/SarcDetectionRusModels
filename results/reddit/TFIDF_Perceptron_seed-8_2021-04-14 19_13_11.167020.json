@@ -1,0 +1,1 @@
+{"embedding": "TFIDF", "model": "Perceptron", "extra_features": ["interjections"], "seed": 8, "results": {"precision": 0.6442886180520976, "recall": 0.6121141616255623, "F1": 0.6277894217729011, "PR AUC": 0.5954629368626971, "ROC AUC": 0.6241626234280541}, "test samples": 248721}

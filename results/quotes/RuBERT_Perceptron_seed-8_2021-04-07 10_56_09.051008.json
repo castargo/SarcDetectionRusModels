@@ -1,0 +1,1 @@
+{"embedding": "RuBERT", "model": "Perceptron", "extra_features": ["rating", "comments_count", "source", "submitted_by"], "seed": 8, "results": {"precision": 0.07762961323521275, "recall": 0.8452825641643571, "F1": 0.14219978918349144, "PR AUC": 0.07632181262497313, "ROC AUC": 0.5494401250914291}, "test samples": 119968}

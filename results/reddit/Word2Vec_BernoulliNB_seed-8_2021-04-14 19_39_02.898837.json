@@ -1,0 +1,1 @@
+{"embedding": "Word2Vec", "model": "BernoulliNB", "extra_features": ["exclamation", "question", "quotes", "dotes"], "seed": 8, "results": {"precision": 0.546925622713813, "recall": 0.7305490926012098, "F1": 0.6255403924693694, "PR AUC": 0.5610121175180595, "ROC AUC": 0.5601719896022899}, "test samples": 248721}

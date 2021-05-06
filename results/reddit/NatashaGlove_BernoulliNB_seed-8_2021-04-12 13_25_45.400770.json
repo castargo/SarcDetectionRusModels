@@ -1,0 +1,1 @@
+{"embedding": "NatashaGlove", "model": "BernoulliNB", "extra_features": [], "seed": 8, "results": {"precision": 0.5510967681586455, "recall": 0.639685124864278, "F1": 0.5920956759880405, "PR AUC": 0.5795930107328486, "ROC AUC": 0.5613097103962313}, "test samples": 248721}

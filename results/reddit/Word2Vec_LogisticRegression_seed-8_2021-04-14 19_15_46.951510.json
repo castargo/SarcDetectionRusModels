@@ -1,0 +1,1 @@
+{"embedding": "Word2Vec", "model": "LogisticRegression", "extra_features": ["interjections"], "seed": 8, "results": {"precision": 0.6230318606145357, "recall": 0.6392430587870327, "F1": 0.6310333607671255, "PR AUC": 0.6712140849656266, "ROC AUC": 0.6582759459181405}, "test samples": 248721}

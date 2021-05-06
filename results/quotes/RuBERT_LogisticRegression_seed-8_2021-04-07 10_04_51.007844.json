@@ -1,0 +1,1 @@
+{"embedding": "RuBERT", "model": "LogisticRegression", "extra_features": ["rating", "comments_count", "source", "submitted_by"], "seed": 8, "results": {"precision": 0.0596380180001978, "recall": 0.0726593565489818, "F1": 0.06550787615426398, "PR AUC": 0.06857176445175547, "ROC AUC": 0.4943933819414542}, "test samples": 119968}

@@ -1,0 +1,1 @@
+{"embedding": "Word2Vec", "model": "Perceptron", "extra_features": ["interjections"], "seed": 8, "results": {"precision": 0.5601948503827419, "recall": 0.6992399565689468, "F1": 0.6220419202163624, "PR AUC": 0.5476282976761777, "ROC AUC": 0.5541474075094757}, "test samples": 248721}

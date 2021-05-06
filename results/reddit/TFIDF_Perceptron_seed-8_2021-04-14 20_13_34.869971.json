@@ -1,0 +1,1 @@
+{"embedding": "TFIDF", "model": "Perceptron", "extra_features": ["funny_mark", "interjections", "exclamation", "question", "quotes", "dotes", "author", "subreddit", "score"], "seed": 8, "results": {"precision": 0.5191034319061689, "recall": 0.9837521327749341, "F1": 0.6795983862585522, "PR AUC": 0.5190922008099235, "ROC AUC": 0.5013600413083643}, "test samples": 248721}

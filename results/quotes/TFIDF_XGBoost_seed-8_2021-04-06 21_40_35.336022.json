@@ -1,0 +1,1 @@
+{"embedding": "TFIDF", "model": "XGBoost", "extra_features": ["interjections"], "seed": 8, "results": {"precision": 0.35172413793103446, "recall": 0.012290637426195928, "F1": 0.0237513098148795, "PR AUC": 0.1438863258289272, "ROC AUC": 0.7022680735282993}, "test samples": 119968}

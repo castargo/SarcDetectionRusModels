@@ -1,0 +1,1 @@
+{"embedding": "Word2Vec", "model": "BernoulliNB", "extra_features": ["rating", "comments_count", "source", "submitted_by"], "seed": 8, "results": {"precision": 0.08075222966746326, "recall": 0.6229666224846367, "F1": 0.14297170985315671, "PR AUC": 0.09606276693725102, "ROC AUC": 0.5757541768969113}, "test samples": 119968}

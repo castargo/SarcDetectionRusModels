@@ -1,0 +1,1 @@
+{"embedding": "TFIDF", "model": "BernoulliNB", "extra_features": ["exclamation", "question", "quotes", "dotes"], "seed": 8, "results": {"precision": 0.18013856812933027, "recall": 0.18797445475358476, "F1": 0.18397311162214752, "PR AUC": 0.15217895274975035, "ROC AUC": 0.7383988127315366}, "test samples": 119968}

@@ -1,0 +1,1 @@
+{"embedding": "RuBERT", "model": "Perceptron", "extra_features": ["funny_mark"], "seed": 8, "results": {"precision": 0.5244232207582993, "recall": 0.989685124864278, "F1": 0.6855703057425445, "PR AUC": 0.5243612177967194, "ROC AUC": 0.5117776356073505}, "test samples": 248721}

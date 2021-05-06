@@ -1,0 +1,1 @@
+{"embedding": "Word2Vec", "model": "BernoulliNB", "extra_features": ["author", "subreddit", "score"], "seed": 8, "results": {"precision": 0.5469720722289961, "recall": 0.7306111369629285, "F1": 0.6255935186107514, "PR AUC": 0.5607457052831014, "ROC AUC": 0.559860477792736}, "test samples": 248721}

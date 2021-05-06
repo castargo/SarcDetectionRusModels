@@ -1,0 +1,1 @@
+{"embedding": "RuBERT", "model": "LogisticRegression", "extra_features": ["author", "subreddit", "score"], "seed": 8, "results": {"precision": 0.5188030286976437, "recall": 0.9873351946641848, "F1": 0.6801932005791743, "PR AUC": 0.518798081934049, "ROC AUC": 0.5007721793853328}, "test samples": 248721}
